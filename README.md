@@ -1,1 +1,1 @@
-# ai_data_structures
+# data_structures_app
